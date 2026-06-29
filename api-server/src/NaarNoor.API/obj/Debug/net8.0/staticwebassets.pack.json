@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/404.html",
+      "PackagePath": "staticwebassets/404.html"
+    },
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/about.html",
+      "PackagePath": "staticwebassets/about.html"
+    },
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/css/styles.css",
+      "PackagePath": "staticwebassets/css/styles.css"
+    },
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/js/main.js",
+      "PackagePath": "staticwebassets/js/main.js"
+    },
+    {
+      "Id": "/home/runner/workspace/api-server/src/NaarNoor.API/wwwroot/status.html",
+      "PackagePath": "staticwebassets/status.html"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.NaarNoor.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.NaarNoor.API.props",
+      "PackagePath": "build\\NaarNoor.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.NaarNoor.API.props",
+      "PackagePath": "buildMultiTargeting\\NaarNoor.API.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.NaarNoor.API.props",
+      "PackagePath": "buildTransitive\\NaarNoor.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

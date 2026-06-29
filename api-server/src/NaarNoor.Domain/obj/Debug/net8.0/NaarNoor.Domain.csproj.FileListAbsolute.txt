@@ -1,0 +1,12 @@
+/home/runner/workspace/api-server/src/NaarNoor.Domain/bin/Debug/net8.0/NaarNoor.Domain.deps.json
+/home/runner/workspace/api-server/src/NaarNoor.Domain/bin/Debug/net8.0/NaarNoor.Domain.dll
+/home/runner/workspace/api-server/src/NaarNoor.Domain/bin/Debug/net8.0/NaarNoor.Domain.pdb
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.AssemblyInfoInputs.cache
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.AssemblyInfo.cs
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.csproj.CoreCompileInputs.cache
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.sourcelink.json
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.dll
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/refint/NaarNoor.Domain.dll
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/NaarNoor.Domain.pdb
+/home/runner/workspace/api-server/src/NaarNoor.Domain/obj/Debug/net8.0/ref/NaarNoor.Domain.dll
